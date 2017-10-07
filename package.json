@@ -6,7 +6,7 @@
   "keywords": [
   ],
   "activationCommands": {
-    "atom-workspace": "send-code:toggle"
+    "atom-workspace": "send-code:send"
   },
   "repository": "https://github.com/atom/send-code",
   "license": "MIT",

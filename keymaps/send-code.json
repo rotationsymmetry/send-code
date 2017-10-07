@@ -1,5 +1,5 @@
 {
   "atom-workspace": {
-    "ctrl-alt-o": "send-code:toggle"
+    "ctrl-enter": "send-code:send"
   }
 }

@@ -1,24 +1,11 @@
 {
-  "context-menu": {
-    "atom-text-editor": [
-      {
-        "label": "Toggle send-code",
-        "command": "send-code:toggle"
-      }
-    ]
-  },
   "menu": [
     {
       "label": "Packages",
       "submenu": [
         {
           "label": "send-code",
-          "submenu": [
-            {
-              "label": "Toggle",
-              "command": "send-code:toggle"
-            }
-          ]
+          "command": "send-code:send"
         }
       ]
     }
