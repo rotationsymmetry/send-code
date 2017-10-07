@@ -1,0 +1,18 @@
+{
+  "name": "send-code",
+  "main": "./lib/send-code",
+  "version": "0.0.0",
+  "description": "A short description of your package",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "send-code:toggle"
+  },
+  "repository": "https://github.com/atom/send-code",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
