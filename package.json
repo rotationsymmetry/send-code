@@ -1,13 +1,10 @@
 {
   "name": "send-code",
   "main": "./lib/send-code",
-  "version": "0.0.0",
-  "description": "A short description of your package",
+  "version": "0.1.0",
+  "description": "Send current line or selected text to iTerm",
   "keywords": [
   ],
-  "activationCommands": {
-    "atom-workspace": "send-code:send"
-  },
   "repository": "https://github.com/atom/send-code",
   "license": "MIT",
   "engines": {
