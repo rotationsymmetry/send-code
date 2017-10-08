@@ -1,0 +1,22 @@
+{
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "send-code",
+          "submenu": [
+            {
+              "label": "Send",
+              "command": "send-code:send"
+            },
+            {
+              "label": "Open Terminal",
+              "command": "send-code:open-tab"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

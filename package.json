@@ -1,0 +1,13 @@
+{
+  "name": "send-code",
+  "main": "./lib/send-code",
+  "version": "0.1.0",
+  "description": "Send current line or selected text to terminal",
+  "keywords": [],
+  "repository": "https://github.com/rotationsymmetry/send-code",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {}
+}

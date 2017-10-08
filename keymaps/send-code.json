@@ -1,0 +1,6 @@
+{
+  "atom-workspace": {
+    "ctrl-enter": "send-code:send",
+    "ctrl-cmd-t": "send-code:open-tab"
+  }
+}
