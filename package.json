@@ -1,7 +1,7 @@
 {
   "name": "send-code",
   "main": "./lib/send-code",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Send current line or selected text to terminal",
   "keywords": [],
   "repository": "https://github.com/rotationsymmetry/send-code",
