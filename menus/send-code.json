@@ -11,6 +11,10 @@
               "command": "send-code:send"
             },
             {
+              "label": "Send Line",
+              "command": "send-code:send-line"
+            },
+            {
               "label": "Open Terminal",
               "command": "send-code:open-tab"
             }
