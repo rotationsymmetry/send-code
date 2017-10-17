@@ -3,7 +3,11 @@
   "main": "./lib/send-code",
   "version": "0.3.0",
   "description": "Send text to terminal",
-  "keywords": [],
+  "keywords": [
+    "terminal",
+    "iterm2",
+    "send"
+  ],
   "repository": "https://github.com/rotationsymmetry/send-code",
   "license": "MIT",
   "engines": {
