@@ -8,15 +8,15 @@
           "submenu": [
             {
               "label": "Send",
-              "command": "send-code:send"
+              "command": "sendcode:send"
             },
             {
               "label": "Send Line",
-              "command": "send-code:send-line"
+              "command": "sendcode:send-line"
             },
             {
               "label": "Open Terminal",
-              "command": "send-code:open-tab"
+              "command": "sendcode:open-tab"
             }
           ]
         }
